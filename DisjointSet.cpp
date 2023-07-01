@@ -3,7 +3,7 @@
 //
 
 #include <iostream>
-#include </usr/local/include/bits/stdc++.h>
+#include "stdc++.h"
 using namespace std;
 
 class DisjointSet {
